@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflowtuto/mlruns/0/a176d7d62c2e485b8a5ef998aab0b286/artifacts
+end_time: 1707847610384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a176d7d62c2e485b8a5ef998aab0b286
+run_name: melodic-hawk-700
+run_uuid: a176d7d62c2e485b8a5ef998aab0b286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707847604358
+status: 3
+tags: []
+user_id: MEHDI

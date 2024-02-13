@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlflowtuto/mlruns/0/d8b54eb6256c446c9eba96e815e5b575/artifacts
+end_time: 1707846626769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8b54eb6256c446c9eba96e815e5b575
+run_name: brawny-goat-944
+run_uuid: d8b54eb6256c446c9eba96e815e5b575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707846614570
+status: 3
+tags: []
+user_id: MEHDI
